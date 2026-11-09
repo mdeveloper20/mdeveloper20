@@ -9,4 +9,5 @@ Most of my current work lives in private repositories, so the activity you see h
 **Earlier work**, public on this profile: React and React Native apps, a Laravel blog, and tutorial source code from my YouTube channel.
 
 - Website: [masouddev.com](https://masouddev.com)
+- LinkedIn: [masoud-pezeshkzade](https://www.linkedin.com/in/masoud-pezeshkzade/)
 - Email: masoud.pezeshkzade@gmail.com
